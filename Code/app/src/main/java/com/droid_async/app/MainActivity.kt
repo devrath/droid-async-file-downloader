@@ -1,4 +1,4 @@
-package com.droid_async_downloader.app
+package com.droid_async.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

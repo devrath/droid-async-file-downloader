@@ -1,4 +1,4 @@
-package com.droid_async_downloader.app
+package com.droid_async.app
 
 import org.junit.Test
 

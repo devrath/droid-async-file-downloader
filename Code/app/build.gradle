@@ -41,5 +41,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
-    implementation project(':FileDownloader')
+    implementation 'com.github.devrath:droid-async-file-downloader:0.0.0'
+    implementation 'com.github.vinchamp77:demo-simple-android-lib:0.0.0'
+
+    // implementation project(':FileDownloader')
+    // publish library : https://dev.to/vtsen/how-to-publish-android-library-on-jitpackio-with-github-50n1
 }

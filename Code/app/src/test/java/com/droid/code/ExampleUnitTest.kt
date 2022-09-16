@@ -1,4 +1,4 @@
-package com.droid_downloader.filedownloader
+package com.droid.code
 
 import org.junit.Test
 
